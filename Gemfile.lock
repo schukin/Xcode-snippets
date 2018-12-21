@@ -1,0 +1,14 @@
+GEM
+  specs:
+    highline (1.7.10)
+    plist (3.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  highline
+  plist
+
+BUNDLED WITH
+   1.16.2
